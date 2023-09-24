@@ -1,3 +1,9 @@
+@import url(header.css);
+
 body {
     background-color: red;
+}
+
+h1 {
+    font-size: 20px;
 }
